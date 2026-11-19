@@ -1,0 +1,11 @@
+# Only the font files, the licence and this README are published.
+# Everything else is ignored unless listed here.
+*
+!.gitignore
+!README.md
+!OFL.txt
+!fonts/
+!fonts/ttf/
+!fonts/woff2/
+!fonts/ttf/Dhatu-*.ttf
+!fonts/woff2/Dhatu-*.woff2
